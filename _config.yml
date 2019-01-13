@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Lucas Ribeiro
+description: Blog para compartilhamento de experiencias em qa, automação e engenharia de software em geral.
 
-url: "https://lucrib.github.io/long-haul"
-baseurl: "/long-haul"
+url: "https://lucrib.github.io/tech"
+baseurl: "/tech"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: lucrib
+   twitter: lucrib_
+   facebook: _lucrib
+   email: lucasribeiro1990@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-85624987-1"
