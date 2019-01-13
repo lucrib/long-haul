@@ -12,11 +12,11 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Posts
    url: /index.html
- - title: About
+ - title: Sobre
    url: /about
- - title: Contact
+ - title: Contato
    url: /contact
 
 social:
